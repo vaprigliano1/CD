@@ -1,3 +1,3 @@
 # CD
-repositorio criado para a materia Ciencia dos Dados
+repositorio criado para a materia Ciência dos Dados
 
